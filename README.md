@@ -13,3 +13,4 @@ Skills you’ll gain will include: Data cleaning, problem solving, critical thin
 Platforms and tools you will learn include: Presentations, Spreadsheets, SQL, Tableau and R Programming
 
 In addition to expert training and hands-on projects, you'll complete a case study that you can share with potential employers to showcase your new skill set.
+https://www.coursera.org/account/accomplishments/specialization/certificate/NQHST8ZHJRGS
