@@ -1,5 +1,5 @@
 # Google-Data-Analytics-Professional-Certificate
-ata analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making.  Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their career.
+Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making.  Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their career.
 
 About this Professional Certificate
 Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making.
